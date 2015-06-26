@@ -12,3 +12,4 @@ apm install run-command
 apm install pigments
 apm install minimap
 apm install csslint
+apm install nuclide-installer
