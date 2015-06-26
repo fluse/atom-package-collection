@@ -1,15 +1,3 @@
 apm install linter
 npm i -g coffeelint eslint
-apm install atom-spotify2
-apm install color-picker
-apm install file-icons
-apm install git-history
-apm install grunt-runner
-apm install local-history
-apm install react
-apm install recent-files-fuzzy-finder
-apm install run-command
-apm install pigments
-apm install minimap
-apm install csslint
-apm install nuclide-installer
+apm install atom-spotify2 color-picker file-icons git-history grunt-runner local-history react recent-files-fuzzy-finder run-command2 pigments minimap csslint nuclide-installer tree-view-breadcrumb
